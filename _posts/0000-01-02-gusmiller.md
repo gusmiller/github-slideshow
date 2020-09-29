@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Gustavo E. Miller - Author of this document
 Use the left arrow to go back!
